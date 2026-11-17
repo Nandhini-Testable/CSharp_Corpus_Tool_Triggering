@@ -135,3 +135,4 @@ Every runner's expected exit code is recorded there, and
 does not already record - a new finding, as distinct from a measurement.
 
 <!-- dummy PR 2026-11-16 10:28:00 -->
+<!-- dummy PR 2026-11-17 07:33:47 -->
